@@ -1,0 +1,41 @@
+{
+    "__class__": "Lista",
+    "Vehiculos": [
+        {
+            "__class__": "VehiculoNuevo",
+            "__atributos__": {
+                "modelo": "X5",
+                "preciobase": 5000,
+                "color": "negro",
+                "cantp": 5,
+                "version": "full"
+            }
+        },
+        {
+            "__class__": "VehiculoUsado",
+            "__atributos__": {
+                "modelo": "suran",
+                "preciobase": 4000,
+                "color": "blanco",
+                "cantp": 5,
+                "marca": "VW",
+                "km": 88,
+                "anio": 2015,
+                "patente": "aaa"
+            }
+        },
+        {
+            "__class__": "VehiculoUsado",
+            "__atributos__": {
+                "modelo": "C3",
+                "preciobase": 2500,
+                "color": "rojo",
+                "cantp": 4,
+                "marca": "Citroen",
+                "km": 20000,
+                "anio": 2018,
+                "patente": "aaab"
+            }
+        }
+    ]
+}
