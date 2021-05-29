@@ -1,0 +1,47 @@
+{
+    "__class__": "Lista",
+    "Personal": [
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": "18-32894739-2",
+                "apellido": "Zabaleta",
+                "nombre": "Juan",
+                "sueldobasico": 80560.0,
+                "antiguedad": 6,
+                "areainvestigacion": "Geologia",
+                "tipoinvestigacion": "Rocas"
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": "20-43078093-0",
+                "apellido": "Balboa",
+                "nombre": "Santiago",
+                "sueldo": 59550.8,
+                "antiguedad": 6,
+                "carrera": "LCC",
+                "cargo": "Docente",
+                "catedra": "Informatica",
+                "categoria": "I",
+                "importeextra": 7600,
+                "areainv": "Programacion",
+                "tipoinv": "POO"
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": "20-32867948-1",
+                "apellido": "Martin",
+                "nombre": "Luis",
+                "sueldobasico": 73034.0,
+                "antiguedad": 6,
+                "carrera": "LCC",
+                "cargo": "Jefe de catedra",
+                "catedra": "Analisis Matematico"
+            }
+        }
+    ]
+}
